@@ -1,0 +1,1 @@
+C:\Users\aheady\Documents\GitHub\FollowMe\VisionPart\GlyphRecognition\obj\x86\Debug\GlyphRecognition.csprojResolveAssemblyReference.cache
