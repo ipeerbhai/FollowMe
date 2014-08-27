@@ -1,0 +1,3 @@
+Y:\Software\AforgeJun2014\gratf-2.0.1-src\gratf-2.0.1-src\Sources\Xna3DViewer\Content\obj\x86\Debug\Xna3DViewerContent.contentprojResolveAssemblyReference.cache
+C:\temp\gratf-2.0.1-src\gratf-2.0.1-src\Sources\Xna3DViewer\Content\obj\x86\Debug\Xna3DViewerContent.contentprojResolveAssemblyReference.cache
+C:\Users\Aaron\SkyDrive\Shazbot\gratf-2.0.1-src\gratf-2.0.1-src\Sources\Xna3DViewer\Content\obj\x86\Debug\Xna3DViewerContent.contentprojResolveAssemblyReference.cache
