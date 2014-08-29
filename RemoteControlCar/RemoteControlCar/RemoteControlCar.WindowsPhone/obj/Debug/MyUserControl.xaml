@@ -1,0 +1,23 @@
+﻿<UserControl
+    x:Class="RemoteControlCar.MyUserControl"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:RemoteControlCar"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="300"
+    d:DesignWidth="400" >
+
+    <Canvas x:Name="LayoutRoot" Background="Transparent" Width="100" Height="200">
+        <Ellipse x:ConnectionId='1' ManipulationMode="TranslateY" Width="34" Height="34" Canvas.Left="33" Canvas.Top="83" Opacity="0.5" Stroke="DarkGray" StrokeThickness="1" Fill="LightGray"                                                                                                                                                       >
+            <Ellipse.RenderTransform>
+                <TranslateTransform x:Name="yTranslator"></TranslateTransform>
+            </Ellipse.RenderTransform>
+        </Ellipse>
+        <TextBlock Name="txtOutput" Text="hello"/>
+        <Border BorderBrush="GhostWhite" BorderThickness="1" Height="237" Canvas.Left="26" Width="47" Canvas.Top="-18"/>
+
+    </Canvas>
+</UserControl>
+
