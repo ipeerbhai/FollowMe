@@ -1,0 +1,16 @@
+# pwmUartFirmware
+# 2014-07-27 21:32:34Z
+
+# IO_2@[IOP=(3)][IoId=(2)] is reserved: SWDDebugEnabled
+dont_use_io iocell 3 2
+# IO_3@[IOP=(3)][IoId=(3)] is reserved: SWDDebugEnabled
+dont_use_io iocell 3 3
+set_location "ClockGenBlock" m0s8clockgenblockcell -1 -1 0
+set_io "\usbUART115200bps:rx(0)\" iocell 4 0
+set_io "\usbUART115200bps:tx(0)\" iocell 4 1
+set_io "pinLeftDir(0)" iocell 1 3
+set_io "pinLeftSleep(0)" iocell 0 2
+set_io "pinLeftStep(0)" iocell 0 1
+set_io "pinRightDir(0)" iocell 1 4
+set_io "pinRightSleep(0)" iocell 0 3
+set_io "pinRightStep(0)" iocell 0 0
