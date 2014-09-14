@@ -35,3 +35,40 @@ C:\Users\Imran\documents\visual studio 2013\Projects\HackAThon\RemoteControlCar\
 C:\Users\Imran\documents\visual studio 2013\Projects\HackAThon\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
 C:\Users\Imran\documents\visual studio 2013\Projects\HackAThon\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\Imran\documents\visual studio 2013\Projects\HackAThon\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Github\ipeerbhai\FollowMe\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\bin\Debug\App.xbf
+C:\Github\ipeerbhai\FollowMe\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\bin\Debug\MyUserControl.xbf
+C:\Github\ipeerbhai\FollowMe\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Github\ipeerbhai\FollowMe\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\bin\Debug\RemoteControlCar.WindowsPhone.xr.xml
+C:\Github\ipeerbhai\FollowMe\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\bin\Debug\RemoteControlCar.WindowsPhone.exe
+C:\Github\ipeerbhai\FollowMe\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\bin\Debug\RemoteControlCar.WindowsPhone.pdb
+C:\Github\ipeerbhai\FollowMe\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\bin\Debug\resources.pri
+C:\Github\ipeerbhai\FollowMe\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Github\ipeerbhai\FollowMe\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\bin\Debug\RemoteControlCar.WindowsPhone.build.appxrecipe
+C:\Github\ipeerbhai\FollowMe\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Github\ipeerbhai\FollowMe\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\obj\Debug\App.g.cs
+C:\Github\ipeerbhai\FollowMe\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Github\ipeerbhai\FollowMe\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Github\ipeerbhai\FollowMe\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\obj\Debug\MyUserControl.g.i.cs
+C:\Github\ipeerbhai\FollowMe\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\obj\Debug\MyUserControl.g.cs
+C:\Github\ipeerbhai\FollowMe\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Github\ipeerbhai\FollowMe\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\obj\Debug\App.xaml
+C:\Github\ipeerbhai\FollowMe\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Github\ipeerbhai\FollowMe\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\obj\Debug\MyUserControl.xaml
+C:\Github\ipeerbhai\FollowMe\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\obj\Debug\App.xbf
+C:\Github\ipeerbhai\FollowMe\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Github\ipeerbhai\FollowMe\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\obj\Debug\MyUserControl.xbf
+C:\Github\ipeerbhai\FollowMe\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Github\ipeerbhai\FollowMe\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\obj\Debug\RemoteControlCar.WindowsPhone.exe
+C:\Github\ipeerbhai\FollowMe\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\obj\Debug\RemoteControlCar.WindowsPhone.pdb
+C:\Github\ipeerbhai\FollowMe\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\obj\Debug\priconfig.xml
+C:\Github\ipeerbhai\FollowMe\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Github\ipeerbhai\FollowMe\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\obj\Debug\layout.resfiles
+C:\Github\ipeerbhai\FollowMe\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Github\ipeerbhai\FollowMe\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\obj\Debug\resources.resfiles
+C:\Github\ipeerbhai\FollowMe\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Github\ipeerbhai\FollowMe\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\obj\Debug\pri.resfiles
+C:\Github\ipeerbhai\FollowMe\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Github\ipeerbhai\FollowMe\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Github\ipeerbhai\FollowMe\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Github\ipeerbhai\FollowMe\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Github\ipeerbhai\FollowMe\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\obj\Debug\ProjectArchitectures.txt

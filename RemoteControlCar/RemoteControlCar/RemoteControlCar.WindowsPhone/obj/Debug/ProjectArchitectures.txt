@@ -1,1 +1,1 @@
-C:\Users\Imran\documents\visual studio 2013\Projects\HackAThon\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\RemoteControlCar.WindowsPhone.csproj;neutral
+C:\Github\ipeerbhai\FollowMe\RemoteControlCar\RemoteControlCar\RemoteControlCar.WindowsPhone\RemoteControlCar.WindowsPhone.csproj;neutral
