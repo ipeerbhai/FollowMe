@@ -9,12 +9,63 @@
 #include <opencv2/imgproc/imgproc.hpp>
 
 using namespace std;
-
+//----------------------------------------------------------------------------------------------------------------------------------
+//----------------------------------------------------------------------------------------------------------------------------------
+// Class:
+//	imageProcess is a series of image enhancers.  It can change colors, blur, sharpen, etc.  
+//	It's not designed to do detection -- just imge processing transforms on whatever the cv::Mat m_imageToProcess.
+//----------------------------------------------------------------------------------------------------------------------------------
+//----------------------------------------------------------------------------------------------------------------------------------
 class imageProcessor
 {
 
 public:
+	bool bProcessImage = false;
 	cv::Mat m_imageToProcess;
+	//-----------------------------------------------------------------------------------------------------------------------------------
+	// Function:
+	//	This processes an image matrix in place, and returns a success code.
+	// Parameters:
+	//	Mat -- the matrix to process.
+	// Returns:
+	//	0 -- S_OK
+	//	-1 -- E_FAIL
+	//	1 -- E_WARN
+	int imageMakeGray()
+	{
+		// Convert the image to greyscale.
+		cv::Mat imageOutput;
+		cv::cvtColor(m_imageToProcess, imageOutput, CV_RGB2GRAY);
+		m_imageToProcess = imageOutput;
+		return(0);
+	}
+	//-----------------------------------------------------------------------------------------------------------------------------------
+	int drawCirclesInImage()
+	{
+		// BGR format, each value between 0 and 255
+		cv::Scalar blue(150, 0, 0); // the blue color...
+		cv::Scalar green(0, 200, 0);
+		cv::Scalar white(200, 200, 200);
+		int thickness = 2;
+		int LINE_TYPE = CV_AA;
+
+		string theText = "Hello, Imran";
+		cv::Point centerOfBigCircle(640/2, 360/2);
+		int circleRadius = 50; // in points, I think.
+
+		cv::circle(m_imageToProcess, centerOfBigCircle, circleRadius, green, thickness, LINE_TYPE);
+		return(0);
+
+	}
+
+	//-----------------------------------------------------------------------------------------------------------------------------------
+	// Detect something.
+	int DetectSomething()
+	{
+		
+	}
+
+
 	//-----------------------------------------------------------------------------------------------------------------------------------
 	// Function:
 	//	This processes an image matrix in place, and returns a success code.
@@ -26,19 +77,25 @@ public:
 	//	1 -- E_WARN
 	int processImage()
 	{
-		if (!bProcessImage)
-			return(0);
-		if (m_imageToProcess.empty())
+		if ((!bProcessImage) || (m_imageToProcess.empty()))
 			return(0); // do nothing and exit
-		// checkl the position of the slider...
-		cv::Mat imageOutput;
-		// Convert the image to greyscale.
-		cv::cvtColor(m_imageToProcess, imageOutput, CV_RGB2GRAY);
-		m_imageToProcess = imageOutput;
+		//imageMakeGray();
+		drawCirclesInImage();
 		return(0);
 	}
 
-	bool bProcessImage = false;
+
+};
+
+//----------------------------------------------------------------------------------------------------------------------------------
+//----------------------------------------------------------------------------------------------------------------------------------
+// Class:
+//----------------------------------------------------------------------------------------------------------------------------------
+//----------------------------------------------------------------------------------------------------------------------------------
+class imageRecognizer
+{
+public:
+	cv::Mat m_imageToRecognize;
 
 };
 
@@ -108,7 +165,7 @@ int _tmain(int argc, _TCHAR* argv[])
 			// But for now, do nothing.
 		}
 		cv::imshow("Hello", imageToDisplay);
-		keyPressed = cv::waitKey(1); // need to call this to actually render the drawing.  Bad API name...
+		keyPressed = cv::waitKey(20); // need to call this to actually render the drawing.  Bad API name...
 		if (keyPressed == 'q')
 			break;
 	}
