@@ -57,6 +57,39 @@ public:
 		return(0);
 
 	}
+	//-----------------------------------------------------------------------------------------------------------------------------------
+	int  BlurImage()
+	{
+		cv::blur(m_imageToProcess, m_imageToProcess, cv::Size(5, 5));
+		int MatType = m_imageToProcess.type();
+		return(0);
+	}
+	//-----------------------------------------------------------------------------------------------------------------------------------
+	// Sobel is one of the edge highlighting algorithms.  The two ones mentioned in the docs are Sobel and Scharr.
+	//	Sobel is the worse one ( according to the docs ), but easier to use?
+	//	It can detect edges in X and Y ( though I'm unsure if both at the same time. )
+	//	See "HighlightEdges" to see Sobel used for both X and Y.  This Function does it only in Y.
+	int SobelImage()
+	{
+		cv::Sobel(m_imageToProcess, m_imageToProcess, CV_8U, 1, 0, 3, 1, 0, 4); // CV_8U is the default type.  This is an 8-bit, unsigned single int per point ( Greyscale )
+		return(0);
+	}
+	//-----------------------------------------------------------------------------------------------------------------------------------
+	// HighlightEdges is a double Sobel edge highlight function.
+	int HighlightEdges()
+	{
+		cv::Mat imageXHighlyight; //highlight horizontal edges
+		cv::Mat imageYHighlyight; // highlight vertical edges
+		cv::Mat imageResult; // A matrix to store a result of adding X and Y together.
+
+		cv::Sobel(m_imageToProcess, imageXHighlyight, CV_8U, 1, 0, 3, 1, 0, 4); // X highlight
+		cv::Sobel(m_imageToProcess, imageYHighlyight, CV_8U, 0, 1, 3, 1, 0, 4); // Y highlight
+
+		cv::addWeighted(imageXHighlyight, 0.5, imageYHighlyight, 0.5, 1, imageResult);
+		m_imageToProcess = imageResult;
+
+		return(0);
+	}
 
 	//-----------------------------------------------------------------------------------------------------------------------------------
 	// Detect something.
@@ -79,8 +112,10 @@ public:
 	{
 		if ((!bProcessImage) || (m_imageToProcess.empty()))
 			return(0); // do nothing and exit
-		//imageMakeGray();
-		drawCirclesInImage();
+		imageMakeGray();
+		//drawCirclesInImage();
+		BlurImage();
+		HighlightEdges();
 		return(0);
 	}
 
