@@ -50,7 +50,7 @@ public:
 		int LINE_TYPE = CV_AA;
 
 		string theText = "Hello, Imran";
-		cv::Point centerOfBigCircle(640/2, 360/2);
+		cv::Point centerOfBigCircle(640 / 2, 360 / 2);
 		int circleRadius = 50; // in points, I think.
 
 		cv::circle(m_imageToProcess, centerOfBigCircle, circleRadius, green, thickness, LINE_TYPE);
@@ -82,8 +82,8 @@ public:
 		cv::Mat imageYHighlyight; // highlight vertical edges
 		cv::Mat imageResult; // A matrix to store a result of adding X and Y together.
 
-		cv::Sobel(m_imageToProcess, imageXHighlyight, CV_8U, 1, 0, 3, 1, 0, 4); // X highlight
-		cv::Sobel(m_imageToProcess, imageYHighlyight, CV_8U, 0, 1, 3, 1, 0, 4); // Y highlight
+		cv::Sobel(m_imageToProcess, imageXHighlyight, CV_8U, 1, 0, 3, 2, 0, 4); // X highlight
+		cv::Sobel(m_imageToProcess, imageYHighlyight, CV_8U, 0, 1, 3, 2, 0, 4); // Y highlight
 
 		cv::addWeighted(imageXHighlyight, 0.5, imageYHighlyight, 0.5, 1, imageResult);
 		m_imageToProcess = imageResult;
@@ -95,7 +95,7 @@ public:
 	// Detect something.
 	int DetectSomething()
 	{
-		
+
 	}
 
 
@@ -199,10 +199,17 @@ int _tmain(int argc, _TCHAR* argv[])
 			// We should probably show an error image...
 			// But for now, do nothing.
 		}
-		cv::imshow("Hello", imageToDisplay);
-		keyPressed = cv::waitKey(20); // need to call this to actually render the drawing.  Bad API name...
-		if (keyPressed == 'q')
-			break;
+		try
+		{
+			cv::imshow("Hello", imageToDisplay);
+			keyPressed = cv::waitKey(20); // need to call this to actually render the drawing.  Bad API name...
+			if (keyPressed == 'q')
+				break;
+		}
+		catch (exception e)
+		{
+			Sleep(100);
+		}
 	}
 	cout << "bye-bye" << endl;
 	Sleep(100);

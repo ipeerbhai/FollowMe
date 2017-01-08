@@ -46,77 +46,6 @@
 <v>pwmUartFirmware\pwmUartFirmware\Generated_Source\PSoC4\TIMER_ThreadTimer\TIMER_ThreadTimer_PM.c</v>
 <v>pwmUartFirmware\pwmUartFirmware\Generated_Source\PSoC4\cybootloader.c</v>
 <v>pwmUartFirmware\pwmUartFirmware\Generated_Source\PSoC4\cybootloader.icf</v>
-<v>pwmUartFirmware\testPWMDrive\TopDesign.cysch</v>
-<v>pwmUartFirmware\testPWMDrive\testPWMDrive.cydwr</v>
-<v>pwmUartFirmware\testPWMDrive\Header Files</v>
-<v>pwmUartFirmware\testPWMDrive\Header Files\GlobalVars1.h</v>
-<v>pwmUartFirmware\testPWMDrive\Source Files</v>
-<v>pwmUartFirmware\testPWMDrive\Source Files\main.c</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\Clock_1</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\Clock_1\Clock_1.c</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\Clock_1\Clock_1.h</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\Clock_2</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\Clock_2\Clock_2.c</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\Clock_2\Clock_2.h</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\cy_boot</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\cy_boot\cm0gcc.ld</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\cy_boot\Cm0Iar.icf</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\cy_boot\Cm0RealView.scat</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\cy_boot\Cm0Start.c</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\cy_boot\core_cm0.h</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\cy_boot\core_cm0_psoc4.h</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\cy_boot\core_cmFunc.h</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\cy_boot\core_cmInstr.h</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\cy_boot\CyBootAsmGnu.s</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\cy_boot\CyBootAsmIar.s</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\cy_boot\CyBootAsmRv.s</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\cy_boot\CyFlash.c</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\cy_boot\CyFlash.h</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\cy_boot\CyLib.c</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\cy_boot\CyLib.h</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\cy_boot\cypins.h</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\cy_boot\cyPm.c</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\cy_boot\cyPm.h</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\cy_boot\cytypes.h</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\cy_boot\cyutils.c</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\isr_reclock</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\isr_reclock\isr_reclock.c</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\isr_reclock\isr_reclock.h</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\pinBlueLED</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\pinBlueLED\pinBlueLED.c</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\pinBlueLED\pinBlueLED.h</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\pinBlueLED\pinBlueLED_aliases.h</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\pinLeftStep</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\pinLeftStep\pinLeftStep.c</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\pinLeftStep\pinLeftStep.h</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\pinLeftStep\pinLeftStep_aliases.h</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\pinRightStep</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\pinRightStep\pinRightStep.c</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\pinRightStep\pinRightStep.h</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\pinRightStep\pinRightStep_aliases.h</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\PWM_1</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\PWM_1\PWM_1.c</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\PWM_1\PWM_1.h</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\PWM_1\PWM_1_PM.c</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\Timer_1</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\Timer_1\Timer_1.c</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\Timer_1\Timer_1.h</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\Timer_1\Timer_1_PM.c</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\cydevice_trm.h</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\cydevicegnu_trm.inc</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\cydeviceiar_trm.inc</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\cydevicerv_trm.inc</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\cydisabledsheets.h</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\cyfitter.h</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\cyfitter_cfg.c</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\cyfitter_cfg.h</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\cyfittergnu.inc</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\cyfitteriar.inc</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\cyfitterrv.inc</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\cymetadata.c</v>
-<v>pwmUartFirmware\testPWMDrive\Generated_Source\PSoC4\project.h</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>pwmUartFirmware</v>
@@ -155,6 +84,11 @@
 <v>pwmUartFirmware\pwmUartFirmware\Generated_Source\PSoC4\pinRightSleep\pinRightSleep.c</v>
 <v>pwmUartFirmware\pwmUartFirmware\Generated_Source\PSoC4\pinRightSleep\pinRightSleep.h</v>
 <v>pwmUartFirmware\pwmUartFirmware\Generated_Source\PSoC4\pinRightSleep\pinRightSleep_aliases.h</v>
+<v>pwmUartFirmware\pwmUartFirmware\Generated_Source\PSoC4\pinRightStep</v>
+<v>pwmUartFirmware\pwmUartFirmware\Generated_Source\PSoC4\PWM_LEFT</v>
+<v>pwmUartFirmware\pwmUartFirmware\Generated_Source\PSoC4\PWM_RIGHT</v>
+<v>pwmUartFirmware\pwmUartFirmware\Generated_Source\PSoC4\TIMER_ThreadTimer</v>
+<v>pwmUartFirmware\pwmUartFirmware\Generated_Source\PSoC4\TIMER_ThreadTimer\TIMER_ThreadTimer.c</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
@@ -164,8 +98,6 @@
 <v>pwmUartFirmware\pwmUartFirmware\TopDesign</v>
 <v>pwmUartFirmware\pwmUartFirmware\TopDesign\TopDesign.cysch</v>
 <v>pwmUartFirmware\testPWMDrive</v>
-<v>pwmUartFirmware\testPWMDrive\TopDesign</v>
-<v>pwmUartFirmware\testPWMDrive\TopDesign\TopDesign.cysch</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>pwmUartFirmware</v>
@@ -173,8 +105,6 @@
 <v>pwmUartFirmware\pwmUartFirmware\TopDesign</v>
 <v>pwmUartFirmware\pwmUartFirmware\TopDesign\TopDesign.cysch</v>
 <v>pwmUartFirmware\testPWMDrive</v>
-<v>pwmUartFirmware\testPWMDrive\TopDesign</v>
-<v>pwmUartFirmware\testPWMDrive\TopDesign\TopDesign.cysch</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
@@ -184,89 +114,11 @@
 <v>pwmUartFirmware\pwmUartFirmware\CortexM0</v>
 <v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473</v>
 <v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\Bootloadable_1.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\CLOCK_LEFT.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\CLOCK_RIGHT.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\CLOCK_ThreadClock.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\Cm0Start.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\controlRegStep.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\CyBootAsmGnu.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\cybootloader.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\cyfitter_cfg.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\CyFlash.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\CyLib.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\cymetadata.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\cyPm.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\cyutils.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\ISR_UpdateSpeed.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\main.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\pinLeftDir.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\pinLeftSleep.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\pinLeftStep.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\pinRightDir.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\pinRightSleep.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\pinRightStep.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\PWM_LEFT.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\PWM_LEFT_PM.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\PWM_RIGHT.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\PWM_RIGHT_PM.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\TIMER_ThreadTimer.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\TIMER_ThreadTimer_PM.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\usbUART115200bps.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\usbUART115200bps_BOOT.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\usbUART115200bps_PM.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\usbUART115200bps_rx.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\usbUART115200bps_SCBCLK.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\usbUART115200bps_SPI_UART.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\usbUART115200bps_SPI_UART_INT.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\usbUART115200bps_tx.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\usbUART115200bps_UART.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\usbUART115200bps_UART_BOOT.lst</v>
 <v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\pwmUartFirmware.cyacd</v>
 <v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\pwmUartFirmware.elf</v>
 <v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\pwmUartFirmware.hex</v>
 <v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\pwmUartFirmware.map</v>
 <v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files\Bootloadable_1.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files\CLOCK_LEFT.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files\CLOCK_RIGHT.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files\CLOCK_ThreadClock.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files\Cm0Start.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files\controlRegStep.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files\CyBootAsmGnu.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files\cybootloader.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files\cyfitter_cfg.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files\CyFlash.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files\CyLib.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files\cymetadata.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files\cyPm.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files\cyutils.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files\ISR_UpdateSpeed.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files\main.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files\pinLeftDir.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files\pinLeftSleep.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files\pinLeftStep.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files\pinRightDir.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files\pinRightSleep.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files\pinRightStep.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files\PWM_LEFT.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files\PWM_LEFT_PM.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files\PWM_RIGHT.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files\PWM_RIGHT_PM.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files\TIMER_ThreadTimer.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files\TIMER_ThreadTimer_PM.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files\usbUART115200bps.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files\usbUART115200bps_BOOT.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files\usbUART115200bps_PM.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files\usbUART115200bps_rx.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files\usbUART115200bps_SCBCLK.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files\usbUART115200bps_SPI_UART.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files\usbUART115200bps_SPI_UART_INT.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files\usbUART115200bps_tx.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files\usbUART115200bps_UART.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\Listing Files\usbUART115200bps_UART_BOOT.lst</v>
 <v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\pwmUartFirmware.cyacd</v>
 <v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\pwmUartFirmware.elf</v>
 <v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\pwmUartFirmware.hex</v>
@@ -274,34 +126,6 @@
 <v>pwmUartFirmware\pwmUartFirmware\pwmUartFirmware.rpt</v>
 <v>pwmUartFirmware\pwmUartFirmware\pwmUartFirmware_timing.html</v>
 <v>pwmUartFirmware\testPWMDrive</v>
-<v>pwmUartFirmware\testPWMDrive\CortexM0</v>
-<v>pwmUartFirmware\testPWMDrive\CortexM0\ARM_GCC_473</v>
-<v>pwmUartFirmware\testPWMDrive\CortexM0\ARM_GCC_473\Debug</v>
-<v>pwmUartFirmware\testPWMDrive\CortexM0\ARM_GCC_473\Debug\Listing Files</v>
-<v>pwmUartFirmware\testPWMDrive\CortexM0\ARM_GCC_473\Debug\Listing Files\Clock_1.lst</v>
-<v>pwmUartFirmware\testPWMDrive\CortexM0\ARM_GCC_473\Debug\Listing Files\Clock_2.lst</v>
-<v>pwmUartFirmware\testPWMDrive\CortexM0\ARM_GCC_473\Debug\Listing Files\Cm0Start.lst</v>
-<v>pwmUartFirmware\testPWMDrive\CortexM0\ARM_GCC_473\Debug\Listing Files\CyBootAsmGnu.lst</v>
-<v>pwmUartFirmware\testPWMDrive\CortexM0\ARM_GCC_473\Debug\Listing Files\cyfitter_cfg.lst</v>
-<v>pwmUartFirmware\testPWMDrive\CortexM0\ARM_GCC_473\Debug\Listing Files\CyFlash.lst</v>
-<v>pwmUartFirmware\testPWMDrive\CortexM0\ARM_GCC_473\Debug\Listing Files\CyLib.lst</v>
-<v>pwmUartFirmware\testPWMDrive\CortexM0\ARM_GCC_473\Debug\Listing Files\cymetadata.lst</v>
-<v>pwmUartFirmware\testPWMDrive\CortexM0\ARM_GCC_473\Debug\Listing Files\cyPm.lst</v>
-<v>pwmUartFirmware\testPWMDrive\CortexM0\ARM_GCC_473\Debug\Listing Files\cyutils.lst</v>
-<v>pwmUartFirmware\testPWMDrive\CortexM0\ARM_GCC_473\Debug\Listing Files\isr_reclock.lst</v>
-<v>pwmUartFirmware\testPWMDrive\CortexM0\ARM_GCC_473\Debug\Listing Files\main.lst</v>
-<v>pwmUartFirmware\testPWMDrive\CortexM0\ARM_GCC_473\Debug\Listing Files\pinBlueLED.lst</v>
-<v>pwmUartFirmware\testPWMDrive\CortexM0\ARM_GCC_473\Debug\Listing Files\pinLeftStep.lst</v>
-<v>pwmUartFirmware\testPWMDrive\CortexM0\ARM_GCC_473\Debug\Listing Files\pinRightStep.lst</v>
-<v>pwmUartFirmware\testPWMDrive\CortexM0\ARM_GCC_473\Debug\Listing Files\PWM_1.lst</v>
-<v>pwmUartFirmware\testPWMDrive\CortexM0\ARM_GCC_473\Debug\Listing Files\PWM_1_PM.lst</v>
-<v>pwmUartFirmware\testPWMDrive\CortexM0\ARM_GCC_473\Debug\Listing Files\Timer_1.lst</v>
-<v>pwmUartFirmware\testPWMDrive\CortexM0\ARM_GCC_473\Debug\Listing Files\Timer_1_PM.lst</v>
-<v>pwmUartFirmware\testPWMDrive\CortexM0\ARM_GCC_473\Debug\testPWMDrive.elf</v>
-<v>pwmUartFirmware\testPWMDrive\CortexM0\ARM_GCC_473\Debug\testPWMDrive.hex</v>
-<v>pwmUartFirmware\testPWMDrive\CortexM0\ARM_GCC_473\Debug\testPWMDrive.map</v>
-<v>pwmUartFirmware\testPWMDrive\testPWMDrive.rpt</v>
-<v>pwmUartFirmware\testPWMDrive\testPWMDrive_timing.html</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>pwmUartFirmware</v>
@@ -309,37 +133,18 @@
 <v>pwmUartFirmware\pwmUartFirmware\CortexM0</v>
 <v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473</v>
 <v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\Bootloadable_1.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\CLOCK_LEFT.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\CLOCK_RIGHT.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\CLOCK_ThreadClock.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\Cm0Start.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\controlRegStep.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\CyBootAsmGnu.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\cybootloader.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\cyfitter_cfg.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\CyFlash.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\CyLib.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\cymetadata.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\cyPm.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\cyutils.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\ISR_UpdateSpeed.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\main.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\pinLeftDir.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\pinLeftSleep.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\pinLeftStep.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\pinRightDir.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\pinRightSleep.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\pinRightStep.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\PWM_LEFT.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\PWM_LEFT_PM.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\PWM_RIGHT.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\PWM_RIGHT_PM.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\TIMER_ThreadTimer.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\TIMER_ThreadTimer_PM.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\usbUART115200bps.lst</v>
-<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\Listing Files\usbUART115200bps_BOOT.lst</v>
+<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\pwmUartFirmware.cyacd</v>
+<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\pwmUartFirmware.elf</v>
+<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\pwmUartFirmware.hex</v>
+<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Debug\pwmUartFirmware.map</v>
+<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release</v>
+<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\pwmUartFirmware.cyacd</v>
+<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\pwmUartFirmware.elf</v>
+<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\pwmUartFirmware.hex</v>
+<v>pwmUartFirmware\pwmUartFirmware\CortexM0\ARM_GCC_473\Release\pwmUartFirmware.map</v>
+<v>pwmUartFirmware\pwmUartFirmware\pwmUartFirmware.rpt</v>
+<v>pwmUartFirmware\pwmUartFirmware\pwmUartFirmware_timing.html</v>
+<v>pwmUartFirmware\testPWMDrive</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStates>
@@ -352,7 +157,7 @@
 <v>pwmUartFirmware</v>
 <v>pwmUartFirmware\pwmUartFirmware</v>
 <v>pwmUartFirmware\pwmUartFirmware\PSoC 4 Architecture TRM</v>
-<v>pwmUartFirmware\pwmUartFirmware\CY8C42 Family Datasheet</v>
+<v>pwmUartFirmware\pwmUartFirmware\PSoC 4200 Family Datasheet</v>
 <v>pwmUartFirmware\pwmUartFirmware\System Reference Guide v4_0</v>
 <v>pwmUartFirmware\pwmUartFirmware\and_v1_0</v>
 <v>pwmUartFirmware\pwmUartFirmware\Bootloadable_v1_20</v>
@@ -364,22 +169,12 @@
 <v>pwmUartFirmware\pwmUartFirmware\SCB_P4_v1_10</v>
 <v>pwmUartFirmware\pwmUartFirmware\Timer_v2_50</v>
 <v>pwmUartFirmware\pwmUartFirmware\ZeroTerminal</v>
-<v>pwmUartFirmware\testPWMDrive</v>
-<v>pwmUartFirmware\testPWMDrive\PSoC 4 Architecture TRM</v>
-<v>pwmUartFirmware\testPWMDrive\CY8C42 Family Datasheet</v>
-<v>pwmUartFirmware\testPWMDrive\System Reference Guide v4_0</v>
-<v>pwmUartFirmware\testPWMDrive\cy_clock_v2_10</v>
-<v>pwmUartFirmware\testPWMDrive\cy_isr_v1_70</v>
-<v>pwmUartFirmware\testPWMDrive\cy_pins_v1_90</v>
-<v>pwmUartFirmware\testPWMDrive\PWM_v3_0</v>
-<v>pwmUartFirmware\testPWMDrive\Timer_v2_50</v>
-<v>pwmUartFirmware\testPWMDrive\ZeroTerminal</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>pwmUartFirmware</v>
 <v>pwmUartFirmware\pwmUartFirmware</v>
 <v>pwmUartFirmware\pwmUartFirmware\PSoC 4 Architecture TRM</v>
-<v>pwmUartFirmware\pwmUartFirmware\CY8C42 Family Datasheet</v>
+<v>pwmUartFirmware\pwmUartFirmware\PSoC 4200 Family Datasheet</v>
 <v>pwmUartFirmware\pwmUartFirmware\System Reference Guide v4_0</v>
 <v>pwmUartFirmware\pwmUartFirmware\and_v1_0</v>
 <v>pwmUartFirmware\pwmUartFirmware\Bootloadable_v1_20</v>
@@ -391,16 +186,6 @@
 <v>pwmUartFirmware\pwmUartFirmware\SCB_P4_v1_10</v>
 <v>pwmUartFirmware\pwmUartFirmware\Timer_v2_50</v>
 <v>pwmUartFirmware\pwmUartFirmware\ZeroTerminal</v>
-<v>pwmUartFirmware\testPWMDrive</v>
-<v>pwmUartFirmware\testPWMDrive\PSoC 4 Architecture TRM</v>
-<v>pwmUartFirmware\testPWMDrive\CY8C42 Family Datasheet</v>
-<v>pwmUartFirmware\testPWMDrive\System Reference Guide v4_0</v>
-<v>pwmUartFirmware\testPWMDrive\cy_clock_v2_10</v>
-<v>pwmUartFirmware\testPWMDrive\cy_isr_v1_70</v>
-<v>pwmUartFirmware\testPWMDrive\cy_pins_v1_90</v>
-<v>pwmUartFirmware\testPWMDrive\PWM_v3_0</v>
-<v>pwmUartFirmware\testPWMDrive\Timer_v2_50</v>
-<v>pwmUartFirmware\testPWMDrive\ZeroTerminal</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStatesV2>
@@ -425,12 +210,8 @@
 <name v=".\pwmUartFirmware.cydsn\Generated_Source\PSoC4\CyBootAsmGnu.s" />
 <name v=".\pwmUartFirmware.cydsn\Generated_Source\PSoC4\usbUART115200bps_SPI_UART.c" />
 <name v=".\pwmUartFirmware.cydsn\MotorGlobals.h" />
-<name v="..\testPWMDrive\testPWMDrive.cydsn\TopDesign\TopDesign.cysch" />
 <name v=".\pwmUartFirmware.cydsn\Generated_Source\PSoC4\ISR_UpdateSpeed.c" />
-<name v="..\testPWMDrive\testPWMDrive.cydsn\Generated_Source\PSoC4\isr_reclock.c" />
 <name v=".\pwmUartFirmware.cydsn\Generated_Source\PSoC4\TIMER_ThreadTimer.h" />
-<name v="..\testPWMDrive\testPWMDrive.cydsn\main.c" />
-<name v="..\testPWMDrive\testPWMDrive.cydsn\GlobalVars1.h" />
 </OpenDocs>
 <config v="Release" />
 <AutoUpdate v="true" />
